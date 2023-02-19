@@ -3,7 +3,7 @@
 
 {"descriptionBen":"E-TELE est une chaîne pro-développement et a donc vocation à faire la pédagogie des actions de développement visant à améliorer les conditions de vie des populations. Informer, Expliquer et Eduquer. Contactez-nous: contact@etelebenin.com","sourceBen":["https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8"],"subtitleBen":"By Channel","thumbBen":"https://od.lk/s/M18yODM2MDMwODFf/etele.png","titleBen":"ETELE TV"},
 
-{"descriptionBen":"EDEN est la chaine privee du Benin des informations et autres.","sourceBen":["https://rtmp.edentv.bj/hls/stream.m3u8"],"subtitleBen":"By Channel","thumbBen":"https://od.lk/s/M18yODQ2NzY3MzZf/tvcbenin.jpeg","titleBen":"EDEN TV"},
+{"descriptionBen":"EDEN est la chaine privee du Benin des informations et autres.","sourceBen":["https://rtmp.edentv.bj/hls/stream.m3u8"],"subtitleBen":"By Channel","thumbBen":"https://od.lk/s/M18yODcyMTYxNDRf/Eden.png","titleBen":"EDEN TV"},
 
 {"descriptionBen":"RTB Aneka avec comme Slogan Varia Pilihan, RTB Aneka is a TV channel which aims towards family entertainment. Broadcasts a wide variety of quality TV programmes that are of educational, family and entertainment values and are appropriate for all age levels.","sourceBen":["https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8"],"subtitleBen":"By Channel","thumbBen":"https://od.lk/s/M18yODMxNjA2NzZf/rtbanelka.jpg","titleBen":"RTB 2 / ANELKA"},
 
