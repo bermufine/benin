@@ -3,6 +3,18 @@
 
 {"descriptionBen":"L’Office de Radiodiffusion et Télévision du Bénin (ORTB) est le service public de l’audiovisuel du Bénin. C’est un établissement public à caractères social, culturel et scientifique doté de la personnalité morale et de l’autonomie financière. ORTB, pas sans vous !/ Tél: +229 21 30 00 48/ Whatsapp: +229 69 70 55 55/ Email contact@ortb.bj","sourceBen":["http://69.64.57.208/ortb/playlist.m3u8"],"subtitleBen":"By Channel","thumbBen":"https://od.lk/s/M18yNjk1NzQzODhf/ortbenin.jpg","titleBen":"ORTB / 2"},
 
+{"descriptionBen":"Soleil Levant Teletevision est la chaine chrétienne du benin avec de divers programmes","sourceBen":["https://rpn3.bozztv.com/ssh101/ssh101/jdpoefgrhappy/playlist.m3u8"],"subtitleBen":"By Channel","thumbBen":"https://od.lk/s/M18yODQ2ODkyNDBf/NEK4CULTURE.jpeg","titleBen":"SOLEIL LEVANT"},
+
+{"descriptionBen":"MEC Teletevision est la chaine chrétienne du benin avec de divers programmes","sourceBen":["https://webstreaming.viewmedia.tv/web_004/Stream/playlist.m3u8"],"subtitleBen":"By Channel","thumbBen":"https://od.lk/s/M18yODQ2ODkyNDBf/NEK4CULTURE.jpeg","titleBen":"MEC TV"},
+
+{"descriptionBen":"BENIN WEB Teletevision est la chaine privée du benin avec de divers programmes","sourceBen":["https://vdo.pro-fhi.net:3244/stream/play.m3u8"],"subtitleBen":"By Channel","thumbBen":"https://od.lk/s/M18yODQ2ODkyNDBf/NEK4CULTURE.jpeg","titleBen":"BENIN WEB"},
+
+{"descriptionBen":"Hope Teletevision Bénin est la chaine chrétienne du benin avec de divers programmes","sourceBen":["https://webstreaming-6.viewmedia.tv/web_090/Stream/playlist.m3u8"],"subtitleBen":"By Channel","thumbBen":"https://od.lk/s/M18yODQ2ODkyNDBf/NEK4CULTURE.jpeg","titleBen":"HOPE TV"},
+
+{"descriptionBen":"Kassoua Teletevision Bénin est la chaine chrétienne du benin avec de divers programmes","sourceBen":["https://tgn.bozztv.com/ssh101/ssh101/kassouatvstream/playlist.m3u8"],"subtitleBen":"By Channel","thumbBen":"https://od.lk/s/M18yODQ2ODkyNDBf/NEK4CULTURE.jpeg","titleBen":"KASSOUA TV"},
+
+
+
 {"descriptionBen":"E-TELE est une chaîne pro-développement et a donc vocation à faire la pédagogie des actions de développement visant à améliorer les conditions de vie des populations. Informer, Expliquer et Eduquer. Contactez-nous: contact@etelebenin.com","sourceBen":["https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8"],"subtitleBen":"By Channel","thumbBen":"https://od.lk/s/M18yODM2MDMwODFf/etele.png","titleBen":"ETELE TV"},
 
 {"descriptionBen":"EDEN est la chaine privee du Benin des informations et autres.","sourceBen":["https://rtmp.edentv.bj/hls/stream.m3u8"],"subtitleBen":"By Channel","thumbBen":"https://od.lk/s/M18yODcyMTYxNDRf/Eden.png","titleBen":"EDEN TV"},
@@ -20,3 +32,22 @@
 {"descriptionBen":"BB 24 Teletevision est la chaine privee du benin avec de divers programmes","sourceBen":["https://edge15.vedge.infomaniak.com/livecast/ik:bb24-1/playlist.m3u8"],"subtitleBen":"By Channel","thumbBen":"https://od.lk/s/M18yODQ2ODkyMzlf/HMD4.jpeg","titleBen":"BB 24 TV"},
 
 {"descriptionBen":"TVC Benin est une chaine panafricanisme d'afrique basee au benin","sourceBen":["https://live.tvcbenin.com/BENIN/TVC.stream/playlist.m3u8"],"subtitleBen":"By Channel","thumbBen":"https://od.lk/s/M18yODQ2ODkyNTJf/RACINES.png","titleBen":"TVC BENIN"}]}]}
+
+
+
+Eden TV
+
+https://rtmp.edentv.bj/hls/stream.m3u8
+
+Etélé
+
+https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
+
+ORTB TV
+
+https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
+
+TVC Bénin 
+
+ https://live.tvcbenin.com/tvc/9f1bf009168d01c56794edf2d1a94f83.sdp/playlist.m3u8
+
